@@ -48,7 +48,7 @@ Este projeto foi criado para reforçar conceitos importantes como:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/seu-repo.git
+(https://github.com/alisonrodriguesmarques-byte/shopee-cart)
 
 # Acesse a pasta
 cd seu-repo
